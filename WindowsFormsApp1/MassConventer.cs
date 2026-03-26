@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace WindowsFormsApp1
 {
+    // Zoran je stavio komentar za proveru push-a
     // Ovo je komentar
     public class MassConventer : IConvert
     {
